@@ -149,7 +149,14 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Content Include="Content\materialize.css" />
+=======
+<<<<<<< HEAD
+    <Content Include="Content\materialize.css" />
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
